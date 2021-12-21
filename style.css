@@ -1,0 +1,67 @@
+
+h1{
+    background-color: black;
+    color: white;
+}
+
+p{
+    color:black;
+    font-size: 30px;
+    border-radius: 20px;
+}
+
+address{
+    color:white;
+    font-size: 30px;
+
+}
+
+.myname{
+    background-color: blue;
+}
+
+p{
+   color: white;
+}
+
+div{
+    background-color: red;
+    color: white;
+    border-radius: 30px;
+}
+
+table{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+
+div{
+    background-color:palevioletred ;
+}
+
+ul{
+    
+    color: white;
+
+}
+
+ol{
+    color: white;
+}
+
+section{
+    background-color: deeppink;
+    color: white;
+}
+
+li{
+    color:white;
+}
+
+h1{
+    color: white;
+    background-color: black;
+    font-size: 20px;
+    border-radius: 40px;
+}
